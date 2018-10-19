@@ -7,14 +7,18 @@
             }
             
             a {
-                color:blue;
-                text-align: center;
+                color:white;
+                text-decoration:none; 
             }
             
             h1 {
                 text-align: center;
             }
             
+            .meny {
+            text-align: center;
+            }
+
             p {
                 
             
@@ -25,6 +29,41 @@
             margin-left: auto;
             margin-right: auto;
             width: 50%;
+            }
+
+            .center2 {
+            display:block;
+            width: 175px;
+            height: 225px;
+            float: right;
+            margin-right: 250px;
+            margin-left: 15px;
+            border-style: solid;
+            border-width: 2px;
+            border-radius: 5px;
+        
+            }
+
+            .center3 {
+            display:block;
+            margin-left:auto;
+            margin-right: 15px;
+            width: 225px;
+            height: 225px;
+            float: left;
+            margin-left: 250px;
+            border-style: solid;
+            border-width: 2px;
+            border-radius: 5px;
+            }
+
+            .center4 {
+            width: 225px;
+            height: 225px;
+            margin-left: 80px;
+            border-style: solid;
+            border-width: 2px;
+            border-radius: 5px;
             }
         
                             
