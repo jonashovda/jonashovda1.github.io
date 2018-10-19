@@ -1,0 +1,49 @@
+
+
+            body {
+                color: black;
+                background-color: lightgray;
+                font-family: Verdana;
+            }
+            
+            a {
+                color:blue;
+                text-align: center;
+            }
+            
+            h1 {
+                text-align: center;
+            }
+            
+            p {
+                
+            
+            }
+    
+            .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            }
+        
+                            
+            #bilde2 {
+                float: left;
+                margin: 50px;
+                
+            }
+
+            #bilde3 {
+                float: right;
+                margin: 50px;
+            }
+            
+              #avsnitt {
+                color:black;
+                background-color: darkgray;
+                width: 700px;
+                margin: 50px;
+            }
+            
+    
